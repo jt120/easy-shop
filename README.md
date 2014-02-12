@@ -1,4 +1,4 @@
 easy-shop
 =========
 
-a e-shop demo
+An E-Shop demo
